@@ -1,7 +1,7 @@
 ## Hello Rose Ann C. Baltar
 
 ## About Me
-I am a student currently pursuing my studies in Computer Science. I am passionate about learning how technology works and how I can create solutions through coding and programming. I am hardworking, eager to learn, and always looking forward to improving my skills in the field of technology.
+I am a student currently pursuing my studies in Computer Science. I am passionate about learning how technology works and how I can create solutions through coding and programming. I am eager to learn, and always looking forward to improving my skills in the field of technology.
 
 ## School
 -Fullbright College Puerto Princessa City
