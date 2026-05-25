@@ -6,8 +6,8 @@ I am a student currently pursuing my studies in Computer Science. I am passionat
 ## School
 -Fullbright College Puerto Princessa City
 
-##Education
- Bachelor of Science in Computer Science
+## Education
+- Bachelor of Science in Computer Science
 
 ## How to Contact Me
 - 📫 Email: baltarroseann29@gmail.com
